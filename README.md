@@ -4,6 +4,8 @@ Modifies the myLIM executable to run code that you write. Useful for modding you
 
 This script only supports macOS, but can probably be ported to Windows in 30 minutes most.
 
+***Not affiliated with Loescher***
+
 ## DISCLAIMER
 
 **You** are responsible for the code you inject. The app will be more prone to code injection if you apply this patch. Be warned. I will decline any responsibility.
