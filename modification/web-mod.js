@@ -1,0 +1,1 @@
+window.alert('This is an example script of patchLIM.');
